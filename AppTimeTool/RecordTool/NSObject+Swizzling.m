@@ -3,7 +3,7 @@
 //  guixueapp
 //
 //  Created by guixue0001 on 16/5/4.
-//  Copyright © 2016年 秦智博. All rights reserved.
+//  Copyright © 2016年 klz. All rights reserved.
 //
 
 #import "NSObject+Swizzling.h"

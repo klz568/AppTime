@@ -10,4 +10,8 @@
 
 @interface UIViewController (Record)
 
+@property (nonatomic, assign) NSTimeInterval catoryStartTime;
+
+@property (nonatomic, assign) NSTimeInterval catoryEndTime;
+
 @end
